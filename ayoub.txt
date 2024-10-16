@@ -1,0 +1,52 @@
+<div>
+    <span id="a">ayoub@alahyane</span>:<span id="b">~</span><span id="c">$</span> cd /root/About_ALAHYANE_AYOUB<br>
+    
+    
+    <span id="a">ayoub@alahyane</span>:<span id="b">~</span><span id="c">$</span> cat alahyaneayoub.txt<br><br>
+    
+
+    Bonjour,<br>
+    Je suis Alahyane Ayoub, mon surnom est "<span id="k">KHOSHOS</span>". 
+    <p>Je suis diplômé en réseaux informatiques et je poursuis actuellement une auto-formation en développement mobile et web.</p>
+    
+    <p>J'adore coder, résoudre des problèmes mathématiques intéressants, jouer au volley-ball et pratiquer la natation</p> 
+    
+    <p>
+        "Un mathématicien est une personne qui peut trouver des analogies entre les théorèmes ; un meilleur mathématicien est celui qui peut voir des analogies entre les démonstrations. 
+        Les très bons mathématiciens sont ceux qui peuvent déceler des analogies entre les théories. 
+        Mais on peut supposer que le meilleur des mathématiciens est celui qui peut voir des analogies entre les analogies", cette citation m'inspire toujours.
+    </p>
+
+    <p>
+        J'ai travaillé dans des domaines comme le réseau Internet, Linux, le développement Web et la sécurité informatique jusqu'à présent, 
+        et je travaille sur d'autres nouveautés comme l'optimisation d'un système dynamique. 
+        Vous pouvez en savoir plus sur moi sur mon <a href="https://www.instagram.com/ayoub.alhyan/" target="_blank">Instagram</a>.
+    </p>
+    
+    <p>
+    Une chose que vous remarquerez peut-être à mon sujet est que je suis toujours en train de coder ou de résoudre des problèmes. 
+    J'aime développer des applications Web et résoudre des problèmes de codage concurrentiels. 
+    Voulez-vous voir certains de mes projets terminés? <a href="https://github.com/alhyan123?tab=repositories" target="_blank">Here you go</a>.
+    </p>
+
+    <p>
+    Vous pouvez visiter mes autres profils, ici: <br> 
+    <a href="https://www.linkedin.com/in/ayoub-alahyane-35822920a/" target="_blank">LinkedIn</a><br> 
+    <a href="https://github.com/alhyan123/" target="_blank">GitHub</a><br> 
+    <a href="https://www.facebook.com/ayoub.alhyan.925/" target="_blank">Facebook</a>
+    </p>
+
+
+    <p>
+        Si vous souhaitez me contacter, n'hésitez pas à m'envoyer un email à 
+        <a href="mailto:alhyanayoub@gmail.com">alhyanayoub@gmail.com</a>.
+    </p>
+
+    <p>
+        Sinon, appelez-moi sur ce numéro: <a href="tel:+212641866361">+212641866361</a>
+    </p>
+
+    <p>Bonne journée!</p>
+    
+    <span id="a">ayoub@alahyane</span>:<span id="b">~</span><span id="c">$</span> exit
+</div>
